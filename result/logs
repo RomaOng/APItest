@@ -1,0 +1,12 @@
+2020-03-23 15:30:41,774 - logs... - INFO - AutoLogoutCookie=logoutToken=4cc44910d0c34d18b956cdc8d2f3831e; expires=Mon, 23-Mar-2020 10:30:41 GMT; path=/, AutoLogoutCookie=logoutToken=4cc44910d0c34d18b956cdc8d2f3831e; expires=Mon, 23-Mar-2020 10:30:41 GMT; path=/, ASP.NET_SessionId=pozgykf25ubndimruv3qiddc; path=/; HttpOnly, UserCookie=UserID=810006&UserName=test_wyl&UserType=2&HoldID=1&HoldName=e34234324&HoldLevel=1&HoldType=6&Token=AN9NWQBST57QY8DDRSYCK0HU5MNS9K5Y&LoginFromType=1&OEMClient=; path=/
+2020-03-23 15:30:41,789 - logs... - INFO - 200
+2020-03-23 17:30:31,603 - logs... - INFO - resultPathH:\APItest\result\resport.html
+2020-03-23 17:30:31,603 - logs... - INFO - caseListFileH:\APItest\caselist.txt
+2020-03-23 17:30:31,603 - logs... - INFO - caseList[]
+2020-03-23 17:32:45,927 - logs... - INFO - resultPathH:\APItest\result\resport.html
+2020-03-23 17:32:45,927 - logs... - INFO - caseListFileH:\APItest\caselist.txt
+2020-03-23 17:32:45,927 - logs... - INFO - caseList[]
+2020-03-23 17:51:21,540 - logs... - INFO - resultPathH:\APItest\result\resport.html
+2020-03-23 17:51:21,541 - logs... - INFO - caseListFileH:\APItest\caselist.txt
+2020-03-23 17:51:21,541 - logs... - INFO - caseList[]
+2020-03-23 17:51:25,067 - logs... - INFO - send email ok
